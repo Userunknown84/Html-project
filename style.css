@@ -1,0 +1,51 @@
+body{
+    position: relative;
+    background-color: black;
+    margin-left: 60px;
+    cursor: pointer;
+}
+.heading{
+    font-size: 160px;
+    font-family: 'Oooh Baby', cursive;
+    color: white;
+}
+.description{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+img{
+    width: 850px;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+.btn-now{
+    background-color: rgb(213,213,11);
+    color: darkslateblue;
+    border: 0;
+    padding: 20px;
+    font-size: 22px;
+    border-radius: 100px;
+    font-weight: bolder;
+    width: 180px;
+    cursor: pointer;
+}
+.top-btn{
+    position: absolute;
+    right: 100px;
+    bottom: 490px;  
+}
+.navbar{
+    color: white;
+    position: absolute;
+    right: 300px;
+    bottom: 500px;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin-right: 18px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
